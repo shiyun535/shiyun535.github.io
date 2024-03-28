@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
+title: shiyun535's homepage
+description: Bookmark this to keep an eye on my project updates!
 lsi: false
 safe: true
 source: [your repo's top level directory]
@@ -8,4 +11,3 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: jekyll-theme-minimal
