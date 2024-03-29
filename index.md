@@ -11,7 +11,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Markdown语法学习](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88).
 
 There should be whitespace between paragraphs.
 
