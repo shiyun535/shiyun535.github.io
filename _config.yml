@@ -1,11 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
-title: shiyun535's homepage
-description: Bookmark this to keep an eye on my project updates!
-
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-remote-theme
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Welcome to my HomePage.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
