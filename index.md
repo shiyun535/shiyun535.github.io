@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<!--花瓣动态背景，引用-->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@3.0/index/web.js"></script>
-<!--指针光标吸引特效，引用-->
-<script color="255,182,193" opacity='0.5' zIndex="-1" count="100" src="https://cdn.bootcss.com/canvas-nest.js/2.0.4/canvas-nest.js" type="text/javascript"></script>
-<h1>Welcome!</h1>
-<p>欢迎来到诗云的主页。</p>
+# Welcome!
+<h3>欢迎来到诗云的主页。</h3>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
