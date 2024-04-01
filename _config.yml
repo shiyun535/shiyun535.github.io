@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
+title: 诗云的个人主页
+logo: /assets/img/001.png
 description: Welcome to my HomePage.
-show_downloads: true
+show_downloads: False
 google_analytics: G-EDB5ZHVP30
 theme: jekyll-theme-minimal
