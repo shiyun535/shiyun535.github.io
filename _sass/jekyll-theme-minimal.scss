@@ -253,18 +253,15 @@ footer {
 /*循环滚动原理：图像滚到最左边（最右边和最左边图片一样），
 下一次循环从头开始，第一张直接取代最后一张，只是看似没动*/
 @keyframes move {
-	0%,11%{
+	0%,20%{
 		transform: translateX(0);
 	}
-  22%,44%{
+  30%,70%{
     transform: translateX(-272px);
   }
-55%,77%{
-	transform: translateX(-544px);
-}
-  88%,100%{
-		transform: translateX(-816px);
-	}	
+  80%,100%{
+		transform: translateX(-544px);
+	}
 }
 
 /*这里控制缩放时的位置，多选择*/
