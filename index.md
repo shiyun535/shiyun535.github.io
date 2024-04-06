@@ -5,122 +5,29 @@ layout: default
 # Welcome!
 <h3>欢迎来到诗云的主页。</h3>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Markdown语法学习](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
 * * *
+## 闲言碎语
+> 我喜欢读书，读各种各样的书，不管是经典还是流行，科幻还是玄幻，东方或者西方。
+> 
+> 每本书都是一个世界，打开书的那一刻，从某种程度上来说，这个世界就成为了我的一部分，又或者，我就成为了这个世界的一部分……
+>
+> 看的书愈多，见识的世界就越广泛，千奇百怪，天马行空，有光明也有黑暗，有繁花亦有泥沼，人类丰富的想象力创造了无限的可能，从这些书籍里面，我见识到了甚至远超过现实世界的精彩。
+>
+> 曾经，我沉溺于这些虚幻的世界中无止境的探索，如同探索新的星空。后来渐渐认识到现实世界的重要，因为它是根基。
+> 
+> 我不再无节度的探索虚幻，也学着开始适应和处理现实，学着应对曾经难以解决的问题。现实世界的精彩，在我面前一点点铺开。
+> 
+> 但我依旧喜欢看书，星空中难得的璀璨让人无法真正遗弃，不过，有时侯相似的世界见得太多也未免让人感到枯燥，现实生活也让我逐渐缩减阅读的时间。我开始有些迷茫：为什么花费大量时间进行的阅读，对于现实似乎没什么帮助？
+> 
+> 有一天突然想起一个似是而非的理论：我们的生活分为表演区和练习区，我们在表演区运用自己的能力，但真正增强自己的能力的却是在练习区。
+> 
+> 原来，我一直都是在表演，凭着兴趣毫无目标的探索着新的世界，缺乏拥有明确目标的有效练习。读了很多书，不代表就能写出一本好书。
+> 
+> 于是，现在的我虽然依旧热爱读书，但更多时间沉迷于探索新事物的实践，这个网页也是实践的一部分，我不想继续处在表演区，只有不断实践才能增强自己的能力。
+> 
+> 我知道我再回不去曾经的那片星空，但眼前白日下的风景似乎也并不算太差。
+>
+> 未完待续……
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 学习链接
+[Markdown语法学习](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88).
